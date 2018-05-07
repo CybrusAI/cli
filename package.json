@@ -62,6 +62,6 @@
         "grunt-shell": "^2.1.0",
         "husky": "^0.14.1",
         "jest-cli": "^20.0.4",
-        "load-grunt-tasks": "^3.5.2"
+        "load-grunt-tasks": "^4.0.0"
     }
 }
